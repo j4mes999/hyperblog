@@ -5,6 +5,7 @@ Most amazing blog app in the world.
 > nempo
 Creado por el increible Luis G.
 Incluye ejemplos en linux y mac
+Disponible para todas las edades
 In this project I learnt:
 - How to work with branches
 - How to merge
